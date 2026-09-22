@@ -1,3 +1,4 @@
+https://github.com/Victoria-92/sales-bonus
 # Проектная работа "Пряники"
 5 спринт, модуль JS
 
